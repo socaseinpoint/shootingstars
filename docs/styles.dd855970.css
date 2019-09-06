@@ -1,0 +1,15 @@
+body {
+  overflow: hidden;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: black;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
